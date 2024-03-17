@@ -1,0 +1,28 @@
+{
+    "constituencies": [
+        {
+            "name": "Dublin Bay South",
+            "tds": ["Chris-Andrews.D.2007-06-14", "Ivana-Bacik.S.2007-07-23", "Jim-O'Callaghan.D.2016-10-03", "Eamon-Ryan.D.2002-06-06"],
+            "population": 121176,
+            "population_at": 2016
+        },
+        {
+            "name": "Kerry",
+            "tds": ["Pa-Daly.D.2020-02-08", "Norma-Foley.D.2020-02-08", "Brendan-Griffin.D.2011-03-09", "Danny-Healy-Rae.D.2016-10-03", "Michael-Healy-Rae.D.2011-03-09"],
+            "population": 147707,
+            "population_at": 2016
+        },
+        {
+            "name": "Donegal",
+            "tds": ["Pearse-Doherty.S.2007-07-23", "Pádraig-MacLochlainn.D.2011-03-09", "Charlie-McConalogue.D.2011-03-09", "Joe-McHugh.S.2002-09-12", "Thomas-Pringle.D.2011-03-09"],
+            "population": 159192,
+            "population_at": 2016
+        }, 
+        {
+            "name": "Galway West",
+            "tds": ["Catherine-Connolly.D.2016-10-03", "Mairéad-Farrell.D.2020-02-08", "Noel-Grealish.D.2002-06-06", "Hildegarde-Naughton.S.2013-07-19", "Éamon-Ó-Cuív.S.1989-10-01"],
+            "population": 143954,
+            "population_at": 2016
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+  "hyperlinks": {
+    "Referendums": "https://www.citizensinformation.ie/en/government-in-ireland/elections-and-referenda/types-of-elections-and-referendums/constitutional-referendum-in-ireland/",
+    "General": "https://www.citizensinformation.ie/en/government-in-ireland/elections-and-referenda/types-of-elections-and-referendums/the-general-election/",
+    "European": "https://www.citizensinformation.ie/en/government-in-ireland/elections-and-referenda/types-of-elections-and-referendums/european-elections/",
+    "Presidential": "https://www.citizensinformation.ie/en/government-in-ireland/elections-and-referenda/types-of-elections-and-referendums/presidential-election/",
+    "Local": "https://www.citizensinformation.ie/en/government-in-ireland/elections-and-referenda/types-of-elections-and-referendums/local-elections/"
+  },
+  "eligibility_questions": [
+    {
+      "question": "To vote in any election and referendum, you must be entitled to vote. Your entitlement is based on your nationality, and there are rules about the nationalities that are allowed to vote in elections and referendums in Ireland. \n\nAre you aged 18 or over?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "correct_index": 0
+    },
+    {
+      "question": "Are you a citizen of Ireland?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "correct_index": 1,
+      "state": "Irish",
+      "val": "Referendums, and General, European, Local, and Presidential elections."
+    },
+    {
+      "question": "Are you a citizen of the UK?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "correct_index": 1,
+      "state": "UKish",
+      "val": "General and Local elections."
+    },
+    {
+      "question": "Are you a citizen of the EU?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "correct_index": 1,
+      "state": "European",
+      "val": "European and Local elections"
+    },
+    {
+      "question": "Eligibility Checker Finished",
+      "answers": "Continue",
+      "correct_index": 0,
+      "state": "Foreign",
+      "val": "Local Elections"
+    },
+    {
+      "finish_card": {
+        "end_text": "You are eligible to vote in %val%"
+      }
+    }
+  ]
+}
